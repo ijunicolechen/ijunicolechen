@@ -1,11 +1,11 @@
 # Secrets about me
 ## 👋Hi, I’m Nicole Chen (@ijunicolechen)
-### An UX/UI designer with 4+ years of web developer experience
+### An UX/UI designer with 4+ years of full-stack developer work experience
 
-- 👀 I’m passionate about **UX/UI design**, **data analysis**, **machine learning**, **AR/VR**, and **coding**
-- 🌱 I’m currently learning **machine learning** online
+- 👀 Passionate about **UX/UI design**, **data analysis**, **machine learning**, **AR/VR**, and **coding**
+- 🌱 Currently learning **machine learning** online
 - 🏄🏻‍♀️ When I'm not working, I'm reading, playing video games, cooking, or experiencing extreme sports like scuba diving/surfing/skateboarding.
-- 💼 Wanna see my UX works? Magic link is https://ijunicole.design/
+- 💼 Wanna see my UX works? Magic tunnel(https://ijunicole.design/)
 - 📫 Please contact me with ijcndesign@gmail.com
 
 <!---
